@@ -1,3 +1,3 @@
-# bio-it115
+# Kenton's bio-it115
 I'm currently a Software Development & Testing student at Seattle Central College where I'm developing and growing my coding skills. Before attending Seattle Central, I was an Electrical Technician Assistant, installing network servers on the US Navy Destroyer, USS Sampson. My experience and education will shape my software and hardware troubleshooting skills to a level where I'm confident and ready to be in corporate America. I am passionate and my goal is to achieve a professional career in the Tech industry. 
  I have completeed coursework in Software Development & Testing, including Program Management, Business Communications, Business Applications (Microsoft Office Suite), and Coding Languages.
